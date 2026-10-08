@@ -6,6 +6,9 @@ But even though I tried doing it, I couldn't make it work
 
 Please consider.
 
+The assignment is submitted 
+Here are the links for Task 1
+
 [![Watch the video](Current Frame)](https://youtu.be/xVkWczVzIAw)
 
 [![Watch the video](Fixed Frame)](https://youtu.be/JLnYNoJ52nw)
